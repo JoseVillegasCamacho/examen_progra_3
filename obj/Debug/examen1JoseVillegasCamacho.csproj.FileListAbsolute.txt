@@ -1,0 +1,8 @@
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\bin\Debug\examen1JoseVillegasCamacho.exe.config
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\bin\Debug\examen1JoseVillegasCamacho.exe
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\bin\Debug\examen1JoseVillegasCamacho.pdb
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\obj\Debug\examen1JoseVillegasCamacho.csproj.AssemblyReference.cache
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\obj\Debug\examen1JoseVillegasCamacho.csproj.SuggestedBindingRedirects.cache
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\obj\Debug\examen1JoseVillegasCamacho.csproj.CoreCompileInputs.cache
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\obj\Debug\examen1JoseVillegasCamacho.exe
+C:\Users\jos91\Desktop\examen_progra_3\examen1JoseVillegasCamacho\obj\Debug\examen1JoseVillegasCamacho.pdb
